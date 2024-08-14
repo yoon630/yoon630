@@ -7,7 +7,8 @@
 
 #
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon630&show_icons=true&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon630&layout=compact&theme=algolia)
+https://github-readme-stats.vercel.app/api?username=yoon630&show_icons=true&theme=algolia 
+https://github-readme-stats.vercel.app/api/top-langs/?username=yoon630&layout=compact&theme=algolia
 #
 
 ## Tech Stack 💻
