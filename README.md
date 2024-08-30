@@ -7,7 +7,6 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yoon630&theme=algolia&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon630&layout=compact&theme=algolia"/>
 
 <h2>Tech Stack 💻</h2>
