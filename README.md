@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Yoonseon from Korea
-- 🔭 I’m Frontend developer 
+- 🔭 I’m intersted in PM, Frontend Develop
 - 🤔 I’m looking for help with coding test studying
 - 💻 I am trying to learn new skills
 - 📫 How to reach me: choiyunseon630@gmail.com
