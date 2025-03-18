@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Yoonseon from Korea
 - 🔭 I’m intersted in PM, Frontend Develop
-- 🤔 I’m looking for help with coding test studying
+- 🤔 I'm interested in solving service problems and analyzing customer behavior.
 - 💻 I am trying to learn new skills
 - 📫 How to reach me: choiyunseon630@gmail.com
 
