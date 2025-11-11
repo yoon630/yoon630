@@ -1,8 +1,16 @@
-## Hi there 👋 I am Yoonseon from Korea
-- 🔭 I’m intersted in UX research, UX design, Product Management, Customer Analyze
-- 🤔 I'm interested in solving service problems and analyzing customer behavior.
-- 💻 I am trying to learn new skills
-- 📫 How to reach me: choiyunseon630@gmail.com
+👋 Hi there! I'm Yoonseon Choi from Korea
+
+💡 Tech Product Manager in progress, bridging technology and business to build impactful AI-driven products.
+
+🎓 Majored in Information & Communication Engineering, with hands-on experience in Python, SQL, and API-based systems.
+
+🤖 Deeply interested in the AI industry, including Generative AI, AI Agent, and Enterprise AI transformation.
+
+🧭 Passionate about solving complex user problems and improving product usability through data & UX insights.
+
+💻 Continuously learning to connect technical depth with strategic product planning.
+
+📫 How to reach me: www.linkedin.com/in/yoonseon-choi-bb138b38b
 
 
 <div align="center">
