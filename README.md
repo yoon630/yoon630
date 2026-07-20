@@ -1,11 +1,18 @@
-## 👋 Hi there! I'm **Yoonseon Choi** from Korea  
+# 👋 Hi there! I'm Yoonseon Choi from Korea
 
-💡 **Tech Product Manager in progress**, bridging technology and business to build impactful AI-driven products.  
-🎓 Majored in **Information & Communication Engineering**, with hands-on experience in **Python, SQL, and API-based systems**.  
-🤖 Deeply interested in the **AI industry**, including **Generative AI, AI Agent, and Enterprise AI transformation**.  
-🧭 Passionate about **solving complex problems through technical approaches** and exploring **how technology can drive better products**.  
-💻 Continuously learning to connect **technical depth** with **strategic product planning**.  
-📫 How to reach me:  www.linkedin.com/in/yoonseon-choi-bb138b38b
+💡 Aspiring **Forward Deployed Product Manager and AI Product Manager**, turning business problems into practical AI solutions.
+
+🧭 Experienced in analyzing operational workflows, defining AI use cases, and connecting product requirements with technical implementation.
+
+🤖 Built and validated AI-powered products and PoCs, including an LLM-based onboarding agent, RPA workflow automation, and LLM routing tools.
+
+🛠️ Comfortable working hands-on with Python, SQL, APIs, databases, and AI development tools to rapidly test ideas and turn them into working prototypes.
+
+☁️ Currently expanding my knowledge of cloud infrastructure and deployment to design AI products that are not only useful, but scalable and operable.
+
+🌱 Interested in Enterprise AI, AI Agents, AX, LLMOps, and cloud-based AI systems.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yoonseon-choi-bb138b38b)
 
 
 
