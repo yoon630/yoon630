@@ -14,6 +14,8 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yoonseon-choi-bb138b38b)
 
+📒 My Portfolio : https://yoonseon-portfolio.vercel.app/
+
 
 
 <div align="center">
